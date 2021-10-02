@@ -6,10 +6,15 @@ Table des matières
 
 Context du projet
 
-.Technologies utilisées
+ -  Technologies utilisées
+ -  Prérequis
+ -  Contenu de ce repository
+ -  Instructions
+ -  Changement des variables du script selon votre infrastructure
+ -  Fonctions du scripts
 
-.Prérequis
-Contenu de ce repository
-Instructions
-Changement des variables du script selon votre infrastructure
-Fonctions du scripts
+Context du projet
+
+Ce projet est une démonstration de solution qui automatise la configuration d'éléments d'une infrastructure dont la documentation est importante et stricte, mais où les procédures de changement sont homogènes et répétitives.
+
+
