@@ -5,8 +5,10 @@ Dans le cadre du projet 06 du parcours Administrateur Infrastructure & Cloud d'O
 Table des matières
 
 Context du projet
-Technologies utilisées
-Prérequis
+
+.Technologies utilisées
+
+.Prérequis
 Contenu de ce repository
 Instructions
 Changement des variables du script selon votre infrastructure
