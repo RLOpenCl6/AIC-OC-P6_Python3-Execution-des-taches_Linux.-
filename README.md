@@ -2,6 +2,13 @@
 
 Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
 
+Etudiant AIC OpenClassrooms : Ricardo Linares Rubio
+Date de création : 28/09/2021
+Dernière modification :05/10/2021
+Testé avec : Python 3.8
+
+Projet sous Licence 
+
 Table des matières
 
 Context du projet
