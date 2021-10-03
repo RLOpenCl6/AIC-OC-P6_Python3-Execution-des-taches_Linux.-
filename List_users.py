@@ -1,7 +1,7 @@
 #! /usr/bin/python3.8
 # -*- coding:utf-8 -*-
 # Script permettant la récupération des utilisateurs Linux
-# Auteur : R. Linares Rubio
+# Étudiant : R. Linares Rubio
 # Date : 28 Septembre 2021
 # Version : 2P.0
 
