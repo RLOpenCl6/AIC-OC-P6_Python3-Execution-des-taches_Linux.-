@@ -42,6 +42,6 @@ Context du projet
 
  - Ce projet est une démonstration de solution qui automatise la configuration d'éléments d'une infrastructure dont la documentation est importante et stricte, mais où les procédures de changement sont homogènes et répétitives.
 
- - Un fenetrage tkinter(projet6.py) permet d'avoir un menu des différents scripts d'automatisation.
+ - Une fenêtre tkinter du Script P06AIC.py développe un menu des différents scripts d'automatisation.
 
-
+ 
