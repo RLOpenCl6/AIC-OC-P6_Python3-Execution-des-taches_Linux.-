@@ -22,8 +22,8 @@ Table des matières
  -               1 Switch
  -               Visual Sudio Code
  -               Module Tkinter
- -                              
- -  
+                             
+   
  -  Contenu de ce repository
  -               P06AIC.py
  -               Réseau.py
@@ -34,9 +34,9 @@ Table des matières
  -               Sauvegarde1.py
  -               Image du Projet testé sur VM Virtualbox et GNS3
  -               Image de la fenêtre  elaborée avec module tkinter 
- - 
+ 
  -  Changement des variables du script selon votre infrastructure
- -  
+  
 
 Context du projet
 
