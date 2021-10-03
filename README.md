@@ -32,11 +32,11 @@ Table des matières
  -               Supprime_user.py
  -               Sauvegarde.py
  -               Sauvegarde1.py
- -               Projet testé sur VM Virtualbox et GNS3
- -               Fenêtre  elaborée avec module tkinter 
- -  Instructions
+ -               Image du Projet testé sur VM Virtualbox et GNS3
+ -               Image de la fenêtre  elaborée avec module tkinter 
+ - 
  -  Changement des variables du script selon votre infrastructure
- -  Fonctions du scripts
+ -  
 
 Context du projet
 
