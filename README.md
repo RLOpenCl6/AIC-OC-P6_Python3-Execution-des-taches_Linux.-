@@ -10,11 +10,9 @@ Dernière modification :05/10/2021
 
 Testé avec : Python 3.8
 
-Projet sous Licence 
+Projet sous Licence MIT
 
 Table des matières
-
-Context du projet
 
  -  Technologies utilisées
  -  Prérequis
