@@ -9,4 +9,4 @@
 # import du module
 import os
 
-os.system("ssh adminsys@192.168.0.30 'python3 -s' <./Sauvegarde.py")   # lancez une commande")
+os.system("ssh adminsys@192.168.0.30 'python3 -s' <./HomeSauvegarde.py")   # lancez une commande")
