@@ -1,3 +1,10 @@
+#! /usr/bin/python3.8
+# -*- coding:utf-8 -*-
+# Script de sauvegarde des données Linux
+# Etudiant : R. Linares Rubio
+# Date : 28 septembre  2021
+# Version : 2.0
+
 # Importer les modules suivants
 import shutil
 from datetime import date
