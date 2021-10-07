@@ -19,7 +19,7 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
       
    	Contenu de ce repository
     
-      •	Script Python : P06AIC.py
+      •	Script Python :   P06AIC.py
       •	Script Python :   Créer_users.py
       •	Script Python :   Supprime_user.py
       •	Script Python :   Liste_users.py
