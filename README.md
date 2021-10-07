@@ -1,4 +1,4 @@
-# AIC_OC_P6_Automatisation_taches_avec_Python
+# AIC_OC_P6_Python3.8:Exécution_des_tâches_sur-Linux.
 
   Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
 
