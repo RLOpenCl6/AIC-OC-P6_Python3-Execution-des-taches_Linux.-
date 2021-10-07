@@ -24,7 +24,7 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
       •	Script Python :   Supprime_user.py
       •	Script Python :   Liste_users.py
       •	Script Python :   TestSauvegarde.py
-      •	 Script Python :   Sauvegarde1.py
+      •	Script Python :   Sauvegarde1.py
       •	Schéma du Projet testé sur VM Virtualbox et GNS3
       • Image de la fenêtre  élaborée avec module tkinter 
       
