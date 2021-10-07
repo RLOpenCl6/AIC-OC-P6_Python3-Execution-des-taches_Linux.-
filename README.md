@@ -6,8 +6,7 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
     o	Testé avec : Python 3.8
     o	Projet sous Licence MIT
 
-    Table des matières
-
+    
    	Technologies utilisées
     
       o	VM VirtualBox
@@ -27,8 +26,9 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
       •	Script Python :   TestSauvegarde.py
       •	 Script Python :   Sauvegarde1.py
       •	Schéma du Projet testé sur VM Virtualbox et GNS3
-      •	 Image de la fenêtre  élaborée avec module tkinter 
-      •	Contexte du Projet P6AIC
+      • Image de la fenêtre  élaborée avec module tkinter 
+      
+    Contexte du Projet P6AIC
       
       Ce projet est une démonstration de solution qui exécute la configuration d'éléments d'une infrastructure dont la documentation est importante et stricte.
       Les  procédures de changement sont homogènes et répétitives.
