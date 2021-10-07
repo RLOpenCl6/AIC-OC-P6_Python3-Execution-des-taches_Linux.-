@@ -8,7 +8,7 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
 
     Table des matières
 
-   •	Technologies utilisées
+   	Technologies utilisées  
    o	VM VirtualBox
    o	GNS3
    o	2 Machines Ubuntu 20.04
