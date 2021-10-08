@@ -9,11 +9,12 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
     
     Contexte du Projet P6AIC
       
-      Ce projet est une démonstration de solution qui exécute la configuration d'éléments d'une infrastructure dont la documentation est 
-      importante et stricte.
-      Les  procédures de changement sont homogènes et répétitives.
-      Une fenêtre du module tkinter du Script P06AIC.py développe un menu des différents scripts d’exécution de tâches.
-      Changement des variables du script selon votre infrastructure
+     - Ce projet est une démonstration de solution qui exécute la configuration d'éléments
+       d'une infrastructure dont la documentation est importante et stricte.
+     - Les  procédures de changement sont homogènes et répétitives.
+     - Une fenêtre du module tkinter du Script P06AIC.py développe un menu 
+       des différents scripts d’exécution de tâches.
+     - Changement des variables du script selon votre infrastructure
     
     
    	Technologies utilisées
@@ -43,7 +44,8 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
       •     Module tkinter permettant la création d'interfaces graphiques.        
       •     Module os
       •     Module pxssh pour synchoniser le output de la machine distante.
-      •     Module getpass pour identification de sécurité qui utilisent un mot de passe avant l’exécution de l’application.
+      •     Module getpass pour identification de sécurité qui utilisent un mot de passe
+            avant l’exécution de l’application.
       •     Module datetime
       
       
