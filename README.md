@@ -40,10 +40,10 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
       
     Installation des modules nécessaires pour l'édition des Scripts  
   
-      •    Module tkinter permettant la création d'interfaces graphiques.        
-      •    Module os
-      •    Module pxssh pour synchoniser le output de la machine distante
-      •    Module getpass pour identification de sécurité qui utilisent un mot de passe avant l’exécution de l’application
-      •    Module datetime
+      •     Module tkinter permettant la création d'interfaces graphiques.        
+      •     Module os
+      •     Module pxssh pour synchoniser le output de la machine distante.
+      •     Module getpass pour identification de sécurité qui utilisent un mot de passe avant l’exécution de l’application.
+      •     Module datetime
       
       
