@@ -40,4 +40,11 @@ Projet 06 du parcours Administrateur Infrastructure & Cloud d'Openclassrooms
       
     Instructions
   
- 
+      • Installer le module tkinter pour developper le fenetrage du projet.
+        Tkinter est la bibliothèque graphique libre d'origine pour le langage Python, permettant la création d'interfaces    graphiques
+      • Installer le module os
+      • Installer le module pxssh pour synchoniser le output de la machine distante
+      • Installer le module getpass pour identification de sécurité qui utilisent un mot de passe avant l’exécution de l’application
+      • Installer le module datetime
+      •
+      •
